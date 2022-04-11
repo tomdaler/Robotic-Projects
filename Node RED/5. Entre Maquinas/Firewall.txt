@@ -1,0 +1,8 @@
+If you are running standard Raspbian and have not activated a firewall then it will already be open.
+
+Please see https://github.com/node-red/cookbook.nodered.org/wiki/How-to-safely-expose-Node-RED-to-the-Internet 229
+
+sudo ufw allow 1880
+
+Run that command in your raspberry pi terminal in case your pi's firewall is enabled
+

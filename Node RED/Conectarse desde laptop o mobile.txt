@@ -1,0 +1,16 @@
+
+
+Primero abra un Remote Desktop Connection
+
+pi
+levitico
+
+Abrio la coneccion
+Luego puede cerrar la sesion y abre browser
+
+192.162.1.25:1880\ui\#\0
+
+O para modificar node red
+
+192.162.1.25:1880\ui\#\0
+
